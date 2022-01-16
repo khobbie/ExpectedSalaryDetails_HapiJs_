@@ -11,3 +11,7 @@
 * To run node server which has a hot reloader from nodemon.
 
         $ nodemon index.js
+
+* For Swagger Documentations
+
+        http://localhost:3000/documentation
