@@ -1,5 +1,5 @@
 
-# Salary Details Calculations
+# Salary Details Calculations with Happi JS
 
 ## Install Project
 
